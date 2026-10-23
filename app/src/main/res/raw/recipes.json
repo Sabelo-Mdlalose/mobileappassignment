@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Spaghetti Bolognese",
+    "ingredients": ["Spaghetti", "Ground Beef", "Tomato Sauce", "Onion", "Garlic"],
+    "quantities": [200, 250, 1, 1, 2],
+    "units": ["g", "g", "cup", "medium", "cloves"],
+    "instructions": "Cook spaghetti. Brown beef with onion and garlic. Add tomato sauce. Simmer and serve over pasta."
+  },
+  {
+    "name": "Chicken Curry",
+    "ingredients": ["Chicken Breast", "Curry Powder", "Coconut Milk", "Onion", "Garlic"],
+    "quantities": [500, 2, 400, 1, 2],
+    "units": ["g", "tbsp", "ml", "medium", "cloves"],
+    "instructions": "Sauté onion and garlic. Add chicken and curry powder. Stir in coconut milk. Simmer until chicken is cooked."
+  },
+  {
+    "name": "Vegetable Stir Fry",
+    "ingredients": ["Broccoli", "Carrot", "Bell Pepper", "Soy Sauce", "Garlic"],
+    "quantities": [1, 1, 1, 3, 2],
+    "units": ["cup", "medium", "large", "tbsp", "cloves"],
+    "instructions": "Heat oil. Add garlic and vegetables. Stir fry until tender. Add soy sauce and serve."
+  },
+  {
+    "name": "Beef Stew",
+    "ingredients": ["Beef Cubes", "Potato", "Carrot", "Onion", "Beef Stock"],
+    "quantities": [500, 2, 2, 1, 2],
+    "units": ["g", "medium", "medium", "large", "cups"],
+    "instructions": "Brown beef. Add vegetables and stock. Simmer until beef is tender."
+  },
+  {
+    "name": "Grilled Cheese Sandwich",
+    "ingredients": ["Bread", "Cheddar Cheese", "Butter"],
+    "quantities": [2, 2, 1],
+    "units": ["slices", "slices", "tbsp"],
+    "instructions": "Butter bread. Place cheese between slices. Grill until golden brown."
+  },
+  {
+    "name": "Pancakes",
+    "ingredients": ["Flour", "Milk", "Egg", "Sugar", "Baking Powder"],
+    "quantities": [1, 1, 1, 2, 1],
+    "units": ["cup", "cup", "large", "tbsp", "tsp"],
+    "instructions": "Mix all ingredients. Pour batter onto hot pan. Flip when bubbles form."
+  },
+  {
+    "name": "Caesar Salad",
+    "ingredients": ["Lettuce", "Croutons", "Parmesan", "Caesar Dressing"],
+    "quantities": [2, 1, 2, 3],
+    "units": ["cups", "cup", "tbsp", "tbsp"],
+    "instructions": "Toss lettuce with dressing. Add croutons and parmesan."
+  },
+  {
+    "name": "Tomato Soup",
+    "ingredients": ["Tomatoes", "Onion", "Garlic", "Vegetable Stock"],
+    "quantities": [4, 1, 2, 2],
+    "units": ["large", "medium", "cloves", "cups"],
+    "instructions": "Cook onion and garlic. Add tomatoes and stock. Blend until smooth."
+  },
+  {
+    "name": "Omelette",
+    "ingredients": ["Eggs", "Milk", "Cheese", "Salt", "Pepper"],
+    "quantities": [3, 2, 2, 0, 0],
+    "units": ["large", "tbsp", "tbsp", "to taste", "to taste"],
+    "instructions": "Beat eggs with milk. Pour into pan. Add cheese. Fold and serve."
+  },
+  {
+    "name": "Roast Chicken",
+    "ingredients": ["Whole Chicken", "Salt", "Pepper", "Garlic", "Lemon"],
+    "quantities": [1, 0, 0, 3, 1],
+    "units": ["whole", "to taste", "to taste", "cloves", "medium"],
+    "instructions": "Season chicken. Stuff with garlic and lemon. Roast until golden."
+  },
+  {
+    "name": "Mashed Potatoes",
+    "ingredients": ["Potatoes", "Butter", "Milk", "Salt"],
+    "quantities": [4, 2, 0.5, 0],
+    "units": ["medium", "tbsp", "cup", "to taste"],
+    "instructions": "Boil potatoes. Mash with butter and milk. Season with salt."
+  },
+  {
+    "name": "French Toast",
+    "ingredients": ["Bread", "Eggs", "Milk", "Sugar", "Cinnamon"],
+    "quantities": [2, 2, 0.5, 1, 1],
+    "units": ["slices", "large", "cup", "tbsp", "tsp"],
+    "instructions": "Mix eggs, milk, sugar, cinnamon. Dip bread. Fry until golden."
+  },
+  {
+    "name": "Fried Rice",
+    "ingredients": ["Rice", "Eggs", "Carrot", "Peas", "Soy Sauce"],
+    "quantities": [2, 2, 1, 0.5, 3],
+    "units": ["cups", "large", "medium", "cup", "tbsp"],
+    "instructions": "Cook rice. Scramble eggs. Stir fry with vegetables and soy sauce."
+  },
+  {
+    "name": "Lasagna",
+    "ingredients": ["Lasagna Sheets", "Ground Beef", "Tomato Sauce", "Cheese"],
+    "quantities": [6, 300, 2, 1],
+    "units": ["sheets", "g", "cups", "cup"],
+    "instructions": "Layer sheets with beef, sauce, and cheese. Bake until golden."
+  },
+  {
+    "name": "Pizza Margherita",
+    "ingredients": ["Pizza Dough", "Tomato Sauce", "Mozzarella", "Basil"],
+    "quantities": [1, 0.5, 100, 0],
+    "units": ["base", "cup", "g", "few leaves"],
+    "instructions": "Spread sauce on dough. Add cheese and basil. Bake until crisp."
+  },
+  {
+    "name": "Chicken Soup",
+    "ingredients": ["Chicken", "Carrot", "Celery", "Onion", "Stock"],
+    "quantities": [300, 1, 1, 1, 3],
+    "units": ["g", "medium", "stalk", "medium", "cups"],
+    "instructions": "Cook chicken with vegetables and stock. Simmer until tender."
+  },
+  {
+    "name": "Banana Bread",
+    "ingredients": ["Bananas", "Flour", "Sugar", "Egg", "Butter"],
+    "quantities": [3, 2, 1, 2, 0.5],
+    "units": ["ripe", "cups", "cup", "large", "cup"],
+    "instructions": "Mash bananas. Mix with other ingredients. Bake until golden."
+  },
+  {
+    "name": "Tacos",
+    "ingredients": ["Taco Shells", "Ground Beef", "Lettuce", "Cheese", "Salsa"],
+    "quantities": [6, 250, 1, 0.5, 0.5],
+    "units": ["shells", "g", "cup", "cup", "cup"],
+    "instructions": "Cook beef. Fill shells with beef, lettuce, cheese, and salsa."
+  },
+  {
+    "name": "Scrambled Eggs",
+    "ingredients": ["Eggs", "Milk", "Butter", "Salt"],
+    "quantities": [3, 2, 1, 0],
+    "units": ["large", "tbsp", "tbsp", "to taste"],
+    "instructions": "Beat eggs with milk. Cook in butter. Stir until fluffy."
+  },
+  {
+    "name": "Grilled Salmon",
+    "ingredients": ["Salmon Fillet", "Lemon", "Salt", "Pepper"],
+    "quantities": [200, 1, 0, 0],
+    "units": ["g", "medium", "to taste", "to taste"],
+    "instructions": "Season salmon. Grill with lemon slices until cooked."
+  },
+  {
+    "name": "Minestrone Soup",
+    "ingredients": ["Mixed Vegetables", "Beans", "Pasta", "Stock"],
+    "quantities": [2, 1, 0.5, 3],
+    "units": ["cups", "cup", "cup", "cups"],
+    "instructions": "Cook vegetables and beans in stock. Add pasta. Simmer until tender."
+  },
+  {
+    "name": "Stuffed Peppers",
+    "ingredients": ["Bell Peppers", "Rice", "Ground Beef", "Tomato Sauce"],
+    "quantities": [4, 1, 200, 1],
+    "units": ["large", "cup", "g", "cup"],
+    "instructions": "Stuff peppers with rice and beef. Top with sauce. Bake until tender."
+  },
+  {
+    "name": "Apple Pie",
+    "ingredients": ["Pie Crust", "Apples", "Sugar", "Cinnamon"],
+    "quantities": [1, 4, 0.5, 1],
+    "units": ["base", "medium", "cup", "tsp"],
+    "instructions": "Fill crust with apples, sugar, cinnamon. Bake until golden."
+  },
+  {
+    "name": "Chocolate Cake",
+    "ingredients": ["Flour", "Sugar", "Cocoa Powder", "Eggs", "Butter"],
+    "quantities": [2, 1, 0.5, 2, 0.5],
+    "units": ["cups", "cup", "cup", "large", "cup"],
+    "instructions": "Mix ingredients. Pour into tin. Bake until cooked through."
+  }
+]
